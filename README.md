@@ -8,5 +8,5 @@ A React design that demonstrates carousel of cards and Sticky-div cards
 
 ## Running the App
 
-- **Frontend**: In the frontend directory, run `npm run dev`.
+- **Frontend**: run `npm run dev`.
 
